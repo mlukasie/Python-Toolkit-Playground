@@ -5,4 +5,4 @@ Project's purpose is storing effects of learning Data Science and AI related tec
 * Seaborn
 * Tensorflow
 
-It can also serve as sort of lookup table if I want a refresher on how things work
+It can also serve as sort of cheat sheet if I want a refresher on how things work
