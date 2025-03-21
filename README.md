@@ -1,4 +1,4 @@
-Project's purpose is storing effects of learning Data Science and AI related technologies such as: 
+Project's purpose is documenting process of learning Data Science and AI related technologies such as: 
 * NumPy
 * Pandas
 * Matplotlib
